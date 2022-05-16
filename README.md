@@ -1,6 +1,9 @@
-# Frontend Homework 15
+# Frontend Homework 18
 
-I have finished my fifteenth homework.
+I have finished my eighteenth homework.
 
-This was very easy.
-All I had to do was edit the code we wrote during class.
+I really enjoyed this one. Even though I once again did it at night and didn't sleep.
+I just feel a lot more productive at night.
+
+I'm still kind of confused about Redux, but it works, and that's the most important part.
+Could've improved the design, but I'll take a nap instead.
