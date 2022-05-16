@@ -1,0 +1,35 @@
+.card {
+    display: flex;
+    padding: 5px;
+    gap: 20em;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.cardList {
+    flex: 1 1 0px;
+}
+
+.img {
+    max-width: 100px;
+}
+
+.flex {
+    display: flex;
+    gap: 30px;
+}
+
+.smallFlex {
+    display: flex;
+    gap: 5px;
+}
+
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.title {
+    font-weight: bold;
+}
